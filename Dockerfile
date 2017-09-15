@@ -1,2 +1,2 @@
 FROM alpine:latest
-RUN  ping localhost -c 10
+RUN  ping localhost 
